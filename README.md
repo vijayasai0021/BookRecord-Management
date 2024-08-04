@@ -103,12 +103,12 @@ GET: Get all issued books with their fine
 
 ...data
   "data": {
-    ## "name": "rohan",
-    ## "surname": "kinnal"
+    ## "name": "vijay",
+    ## "surname": "guntreddi"
   }
 
-name: rohan
-surname: kinnal
+name: vijay
+surname: guntreddi
 email: user@email.com
 subscriptioType: "Premium"
 
